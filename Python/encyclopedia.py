@@ -31,3 +31,9 @@ if word:
     else:
         print(word.capitalize())
         print(w2)
+        
+        
+        
+        
+        
+#pullrequest
