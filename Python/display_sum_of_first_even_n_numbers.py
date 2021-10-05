@@ -9,3 +9,7 @@ def sum_of_n_terms(n): # Initializing the function
 n = int(input("Enter the Number :- ")) # Taking the input or the number till which you have to find the sum
 ans = sum_of_n_terms(n) # Called the function
 print( "The sum of first " + str(n) + " terms is :- " + str(ans)) # Printing the result.
+
+
+
+#pullrequest
