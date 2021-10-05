@@ -12,3 +12,6 @@ n= int(input())
 
 ar = list(map(int,input().split()))
 print(str(countOddSum(ar,n)))
+
+
+#pullrequest
