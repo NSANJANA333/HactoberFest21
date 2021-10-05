@@ -20,3 +20,8 @@ if(f==0):
 else:
     for i in l:
         print(i,end=" ")
+        
+        
+        
+        
+#pullrequest
